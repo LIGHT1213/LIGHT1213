@@ -1,5 +1,5 @@
 ### 我的开源代码 👋
-## 本人代码不欢迎也不允许任何采取996工作制的公司以商业或非商业方式使用，若被发现，被人保留起诉权力
+## 本人代码不欢迎也不允许任何公司以商业或非商业方式使用，若被发现，被人保留起诉权力
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=light1213&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!--
